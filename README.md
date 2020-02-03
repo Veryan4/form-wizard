@@ -18,7 +18,7 @@ Then visit http://localhost:80/
 
 ### Test via Angular
 
-I suggest having Angular 6 or grater installed. This assumes that you also have npm/node installed.
+I suggest having Angular 6 or greater installed. This assumes that you also have npm/node installed.
 
 ```
 git clone https://github.com/Veryan4/form-wizard.git
