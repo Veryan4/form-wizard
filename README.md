@@ -14,7 +14,7 @@ This is a front-end coding test for Wealthtab, here are the cretieria:
 docker pull veryan4/wizard
 docker run -p 80:80 veryan4/wizard 
 ```
-
+Then visit http://localhost:80/
 
 ### Test via Angular
 
