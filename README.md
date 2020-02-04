@@ -24,7 +24,7 @@ I suggest having Angular 6 or greater installed. This assumes that you also have
 git clone https://github.com/Veryan4/form-wizard.git
 cd form-wizard
 npm install
-npm serve
+npm run serve
 ```
 
 You can then visit the application at http://localhost:4200/
